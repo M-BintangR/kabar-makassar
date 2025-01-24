@@ -1,6 +1,6 @@
 <p style="text-align: center">Memberikan Informasi & Budaya Lokal Makassar</p>
 
-<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/doc/logo.png" alt="logo-aplikasi">
+<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi">
 
 # KABAR MAKASSAR
 

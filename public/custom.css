@@ -16,6 +16,33 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+@media (max-width: 768px) {
+  .news-card .card {
+    width: 100% !important;
+  }
+
+  .image-container .img-fluid {
+    width: 100% !important;
+  }
+
+  .hero-section img {
+    display: none;
+  }
+
+  .about-img-container img {
+    display: none !important;
+  }
+}
+
+.news-card .card {
+  height: 340px;
+}
+
+.news-card img {
+  height: 190px;
+  object-fit: cover;
+}
+
 .slide-show-img {
   height: 22rem;
   width: 30rem;

@@ -16,7 +16,18 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.card {
+.slide-show-img {
+  height: 22rem;
+  width: 30rem;
+  object-fit: cover;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.features-section .card {
   height: 25rem;
 }
 
@@ -39,6 +50,13 @@ body {
     var(--background-linear-one),
     var(--background-linear-two)
   );
+}
+
+.image-container .img-fluid {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 20px;
 }
 
 .navbar-brand,

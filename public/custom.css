@@ -28,6 +28,29 @@ body {
   .about-img-container img {
     display: none !important;
   }
+
+  .budaya-card {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .kuliner-card .kuliner-img img {
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .kuliner-card {
+    background-color: var(--white);
+    border: 1px solid var(--smooth-white);
+    padding: 10px 30px;
+  }
+}
+
+.kuliner-img img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
 
 .news-card .card {

@@ -10,7 +10,9 @@
 
 Situs website sederhana untuk melihat informasi terkait budaya, kuliner, dan info-info menarik dari kota <strong>Makassar</strong>.
 
-<strong>Kabar Makassar</strong> adalah website yang dibuat dengan framework Bootstrap, sebagai tugas kuliah pemrograman web dasar.
+<strong>Kabar Makassar</strong> adalah website yang dibuat dengan html & framework Bootstrap CSS, sebagai tugas kuliah pemrograman web dasar.
+
+> Website ini bersifat statis, tampa database dan interaksi server, murni menggunakan html & bootstrap!
 
 # INTERFACE APLIKASI
 

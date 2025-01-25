@@ -16,4 +16,4 @@ Situs website sederhana untuk melihat informasi terkait budaya, kuliner, dan inf
 
 <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-1.png" alt="interface-1" style="width: 1000px; height: 500px; object-fit:cover">
 
-<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-2.png" alt="interface-2" style="width: 1000px; height: 500px; object-fit:cover">
+<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-2.png" alt="interface-2" style="width: 1000px; height: 1500px; object-fit:cover">

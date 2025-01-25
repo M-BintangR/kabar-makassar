@@ -3,7 +3,7 @@
 </p>
 
 <div style="text-align: center;">
-    <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi" style="width: 200px; height: auto;">
+    <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi" style="width: 1000px; height: 500px; object-fit:cover">
 </div>
 
 # KABAR MAKASSAR
@@ -14,6 +14,6 @@ Situs website sederhana untuk melihat informasi terkait budaya, kuliner, dan inf
 
 # INTERFACE APLIKASI
 
-<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-1.png" alt="interface-1" style="width: 200px; height: auto;">
+<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-1.png" alt="interface-1" style="width: 1000px; height: 500px; object-fit:cover">
 
-<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-2.png" alt="interface-2" style="width: 200px; height: auto;">
+<img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/interface-2.png" alt="interface-2" style="width: 1000px; height: 500px; object-fit:cover">

@@ -3,7 +3,7 @@
 </p>
 
 <div style="text-align: center;">
-    <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi" style="width: 100%; height: 200px">
+    <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi" style="width: 100%; height: 300px">
 </div>
 
 # KABAR MAKASSAR

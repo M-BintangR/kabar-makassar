@@ -1,7 +1,3 @@
-<p style="text-align: center; font-size: 20px; font-weight: bold;">
-    Memberikan Informasi & Budaya Lokal Makassar
-</p>
-
 <div style="text-align: center;">
     <img src="https://github.com/M-BintangR/kabar-makassar/blob/main/docs/logo.png" alt="logo-aplikasi" style="width: 1000px; height: 500px">
 </div>
@@ -12,8 +8,8 @@ Situs website sederhana untuk melihat informasi terkait budaya, kuliner, dan inf
 
 <strong>Kabar Makassar</strong> adalah website yang dibuat dengan html & framework Bootstrap CSS, sebagai tugas kuliah pemrograman web dasar.
 <br/>
+> Website ini bersifat statis, tanpa database dan interaksi server, murni menggunakan html & bootstrap!
 <br/>
-> Website ini bersifat statis, tampa database dan interaksi server, murni menggunakan html & bootstrap!
 
 # INTERFACE APLIKASI
 
